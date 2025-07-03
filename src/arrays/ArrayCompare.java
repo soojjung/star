@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package arrays;
 
 public class ArrayCompare {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package arrays;
+
 public class ArrayMid {
     public static void main(String[] args) {
         // 문제: 세 개의 정수를 받아서 셋 중에 가운데 크기의 값을 반환하는 mid()를 작성하고 Test 하시오.

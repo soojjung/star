@@ -1,6 +1,8 @@
-public class Star3 {
+package stars;
+
+public class Star2 {
     public static void main(String[] args) {
-        for (int i = 4; i >= 0; i--) {
+        for (int i = 0; i < 5; i++) {
             System.out.println(" ".repeat(i) + "*");
         }
     }
